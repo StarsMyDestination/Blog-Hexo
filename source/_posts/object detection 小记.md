@@ -15,7 +15,7 @@ paper放在[这儿](https://github.com/StarsMyDestination/ML-Papers)
 [物体（目标）检测历史发展](https://www.zhihu.com/collection/155393368)，分析得十分到位，学习了！
 
 ## Before Faster RCNN and YOLO
-classic cv：HOG（方向梯度直方图）／ LBP（局部二值模式）+ sliding window（滑窗）／selective search（显著特征搜索） + SVM（ + AdaBoost）
+classic cv：HOG（方向梯度直方图）／ LBP（局部二值模式）+ sliding window（滑窗）／selective search（显著特征搜索） + SVM
 >人工提取特征，一般要求你对机器图像领域有较为深刻的理解，另一个是运行速率慢。
 <!-- more -->
 
