@@ -1,0 +1,32 @@
+{
+    "avatar": "/avatar.jpg",
+    "name": "Jianyun Xu／徐建云",
+	"tag": "Self-Driving/Machine Learning/ROS",
+    "desc": "The best way to predict future is to create it!",
+    "skills": {
+		"Python": 8,
+		
+		"C++": 6,
+
+		"Matlab": 6
+    },
+    "projects": [{
+		"name": "Project A",
+		"image": "/project_imgs/project1.png",
+		"tags": ["2017", "image classification"],
+		"description": "CNN on CIFAR-10 Dataset, implemented using TensorFlow",
+		"link_text": "github",
+		"link": "https://github.com/StarsMyDestination/ML-Image-Classification"
+	}, {
+		"name": "Project B",
+		"image": "/project_imgs/project2.png",
+		"description": "Udacity CarND sensor fusion using Kalman Filter and Extended Kalman Filter",
+		"tags": ["self-driving", "sensor fusion"],
+		"link_text": "github",
+		"link": "https://github.com/StarsMyDestination/CarND-SensorFusion-KF-EKF"
+	}],
+	"reward": [
+	    "/donate/alipay.jpeg",
+		"/donate/cat2.jpg"
+	]
+}

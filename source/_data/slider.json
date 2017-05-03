@@ -1,0 +1,21 @@
+[{
+    "image": "/slide_imgs/1.jpg",
+    "align": "center",
+    "title": "Stars My Destination",
+    "subtitle": "The best way to predict future is to create it.",
+	"link": "/about/index.html"
+}, 
+{
+    "image": "/slide_imgs/2.jpg",
+    "align": "left",
+    "title": "Python",
+    "subtitle": "To use absolute import in package.",
+	"link": "/2017/04/12/python-absolute-import/index.html"
+},
+{
+    "image": "/slide_imgs/3.jpg",
+    "align": "right",
+    "title": "Cool",
+    "subtitle": "^-^",
+	"link": null
+}]
