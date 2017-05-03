@@ -1,7 +1,7 @@
 ---
 title: hexo常用命令与多机同步
 category: Hexo
-date: 2017-05-03 21:32:16
+date: 2017-05-02
 tags:
 - Hexo
 - 常用命令
