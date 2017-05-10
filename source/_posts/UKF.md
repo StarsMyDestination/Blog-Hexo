@@ -9,6 +9,8 @@ featured: true
 ---
 Udacity 自动驾驶工程师纳米学位 第二学期 无迹卡尔曼（UKF）学习笔记
 
+项目代码[GitHub链接](https://github.com/StarsMyDestination/CarND-SensorFusion-UKF)
+
 <img src="/post_imgs/UKF/ukf-1.png" width = "400" height = "" alt="CTRV" align=center />
 
 UKF 可采用匀速圆周运动模型，CTRV（Constant Turning Rate and Velocity model）
